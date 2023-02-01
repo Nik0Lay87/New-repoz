@@ -24,3 +24,5 @@
 > git branch **<branch_name>** создать новую ветку с именем branch_name
 
 > **git branch -d <branch_name>** - удалить ветку с именем branch_name
+
+> **git merge --abort** - отменить слияние, которое прошло с конфликтом
